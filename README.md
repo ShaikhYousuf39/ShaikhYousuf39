@@ -56,7 +56,6 @@ I’m always up for new collaborations, learning opportunities, or just a friend
 - **Cricket Lover** 🏏: Always ready for a match or just a good conversation about the game.  
 - **Gaming Enthusiast** 🎮: Enjoying open-world games and discovering new virtual worlds.  
 - **Learning & Growing**: Constantly exploring new tech trends, tools, and design inspiration.  
-- **To-Do List:** Perfecting my JavaScript skills and diving deeper into **backend development**! 
 
 ---
 
