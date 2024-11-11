@@ -26,9 +26,9 @@ Welcome to my GitHub profile! I'm a **Graphic Designer** and **Web Developer** p
 
 A few highlights from my projects:
 
-1. 🖥️ **[Portfolio Website](https://github.com/Yousuf/portfolio-website)** - My personal portfolio showcasing my skills and projects in design and development.
-2. 📝 **[Dynamic Resume Builder](https://github.com/Yousuf/dynamic-resume-builder)** - A TypeScript-based tool for generating resumes dynamically based on user input.
-3. 🍲 **[Food Delivery Website](https://github.com/Yousuf/food-delivery-website)** - A modern and responsive food delivery website design.
+1. 🖥️ **[Portfolio Website](https://portfolio-five-phi-74.vercel.app/)** - My personal portfolio showcasing my skills and projects in design and development.
+2. 📝 **[Dynamic Resume Builder](https://downloadable-resume-neon.vercel.app/)** - A TypeScript-based tool for generating resumes dynamically based on user input.
+3. 🍲 **[Food Delivery Website](https://class-assignment-3-two.vercel.app/)** - A modern and responsive food delivery website design.
 
 ---
 
@@ -36,8 +36,8 @@ A few highlights from my projects:
 
 If you’re interested in collaborating, have questions, or just want to say hi, feel free to reach out!  
 
-- [LinkedIn](https://www.linkedin.com/in/yousuf)  
-- [Email](mailto:yousuf@example.com)
+- [LinkedIn](https://www.linkedin.com/in/yousuf-shaikh-691b7b2a3/)  
+- [Email](mailto:yousufshaikh381@gmail.com)
 
 > "Turning ideas into reality, one line of code at a time." 💻✨
 
