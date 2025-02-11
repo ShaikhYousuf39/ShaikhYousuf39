@@ -29,14 +29,14 @@ Welcome to my creative corner of GitHub! I'm a **Graphic Designer** and **Web De
 
 Explore some of my work that showcases my skills in design and development:
 
-1. 🖥️ **[Portfolio Website](https://portfolio-five-phi-74.vercel.app/)**  
-   *A showcase of my projects, design skills, and web development expertise.*
+1. 🖥️ **[Comforty](https://hackathon-3-beige.vercel.app/)**  
+   *Comforty is an E-commerce Website of Chairs That I made in Nextjs using technologies like Tailwind CSS And Sanity.*
 
 2. 📝 **[Dynamic Resume Builder](https://downloadable-resume-neon.vercel.app/)**  
    *Create dynamic resumes in an instant with this interactive TypeScript-powered tool.*
 
-3. 🍲 **[Food Delivery Website](https://class-assignment-3-two.vercel.app/)**  
-   *A sleek, responsive food delivery platform built with the latest web technologies.*
+3. 📝 **[WebDev Blog Website](https://dynamic-blogging-website-three.vercel.app/)**  
+   *This is my Dynamic Blog Website Made In Nextjs Using Tailwind.*
 
 ---
 
